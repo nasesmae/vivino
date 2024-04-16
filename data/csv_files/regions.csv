@@ -1,0 +1,262 @@
+id,name,country_code
+7,South Australia,au
+24,California,us
+25,Napa Valley,us
+26,Sonoma County,us
+42,Oakville,us
+51,Willamette Valley,us
+55,Yamhill County,us
+65,Lodi,us
+85,Howell Mountain,us
+86,Santa Cruz Mountains,us
+88,Stags Leap District,us
+91,Calistoga,us
+94,Russian River Valley,us
+96,Los Carneros,us
+99,Sta. Rita Hills,us
+100,Alexander Valley,us
+105,Rutherford,us
+324,Walla Walla Valley,us
+327,Columbia Valley,us
+383,Bordeaux,fr
+384,Margaux,fr
+385,Bourgogne,fr
+387,Alsace,fr
+389,Piemonte,it
+393,Pauillac,fr
+394,Toscana,it
+397,Barossa Valley,au
+399,Saint-Julien,fr
+401,Châteauneuf-du-Pape,fr
+405,Ribera del Duero,es
+409,Champagne,fr
+411,Cachapoal Valley,cl
+425,Margaret River,au
+429,Côtes-du-Rhône,fr
+430,Toro,es
+432,Sauternes,fr
+433,Douro,pt
+439,Saint-Joseph,fr
+443,Campania,it
+444,Clare Valley,au
+445,Lazio,it
+451,Graves,fr
+452,Côtes de Bourg,fr
+454,Mendoza,ar
+456,Saint-Estèphe,fr
+460,Veneto,it
+463,Priorat,es
+471,Pessac-Léognan,fr
+478,Campo de Borja,es
+479,Rheingau,de
+483,Valpolicella,it
+485,Montilla-Moriles,es
+488,Umbria,it
+492,Rioja,es
+500,Vacqueyras,fr
+504,Barolo,it
+533,Stellenbosch,za
+534,Franschhoek,za
+535,Hermitage,fr
+541,Tokaj,hu
+544,Jumilla,es
+545,Mosel,de
+548,Puglia,it
+550,Galilee,il
+555,Pomerol,fr
+557,Paarl,za
+576,Trentino-Alto Adige,it
+579,Terre Siciliane,it
+593,Central Valley,cl
+613,Langhe,it
+619,Abruzzo,it
+625,Constantia,za
+628,Bierzo,es
+631,Penedès,es
+635,Sancerre,fr
+636,Chassagne-Montrachet,fr
+640,Salento,it
+642,Friuli-Venezia Giulia,it
+648,Bandol,fr
+649,Pfalz,de
+661,Südtirol - Alto Adige,it
+673,Bolgheri,it
+676,Madeira,pt
+684,Paso Robles,us
+693,Côte-Rôtie,fr
+700,Curico Valley,cl
+712,Marche,it
+713,Uco Valley,ar
+718,Porto,pt
+721,Maipo Valley,cl
+722,Barbaresco,it
+726,Dundee Hills,us
+737,Colchagua Valley,cl
+746,Valtellina,it
+755,Patagonia,ar
+758,Knights Valley,us
+759,Pouilly-Fumé,fr
+770,Salta,ar
+773,Saumur-Champigny,fr
+775,Montsant,es
+782,Château-Grillet,fr
+798,Península de Setúbal,pt
+801,Condrieu,fr
+808,Rosso Piceno,it
+817,Franciacorta,it
+825,Andalucía,es
+827,Saint-Émilion Grand Cru,fr
+839,Vino de España,es
+853,Western Cape,za
+857,Santa Barbara County,us
+858,Rio Negro,ar
+862,Emilia-Romagna,it
+870,Barossa,au
+903,Valle d'Aosta,it
+907,Trentino,it
+924,Baden,de
+926,Epanomi,gr
+959,Valais,ch
+974,Dealu Mare,ro
+1124,South Eastern,md
+1364,Tulbagh,za
+1395,Alentejo,pt
+1414,Ticino,ch
+1437,Moldova,md
+1573,Aconcagua Valley,cl
+1575,Srednja I Juzna Dalmacija,hr
+1596,Agrelo,ar
+1600,Perdriel,ar
+1610,Tupungato,ar
+1706,Cava,es
+1723,Mallorca,es
+1729,Rueda,es
+1735,Valdeorras,es
+1744,El Terrerazo,es
+1786,Empordà,es
+1796,Brunello di Montalcino,it
+1798,Chianti Classico,it
+1801,Vino Nobile di Montepulciano,it
+1802,Montefalco Sagrantino,it
+1804,Amarone della Valpolicella,it
+1808,Recioto della Valpolicella,it
+1819,Gattinara,it
+1829,Barbera d'Asti,it
+1836,Valtellina Superiore,it
+1837,Sforzato della Valtellina,it
+1843,Taurasi,it
+1844,Greco di Tufo,it
+1930,Sonoma Coast,us
+1931,Fort Ross-Seaview,us
+2034,Açores,pt
+2046,Pico,pt
+2059,Douro Superior,pt
+2141,Barsac,fr
+2201,Chambertin Grand Cru,fr
+2202,Chambertin-Clos de Bèze Grand Cru,fr
+2203,Chapelle-Chambertin Grand Cru,fr
+2204,Charmes-Chambertin Grand Cru,fr
+2205,Griotte-Chambertin Grand Cru,fr
+2207,Mazis-Chambertin Grand Cru,fr
+2209,Morey-Saint-Denis,fr
+2211,Clos de la Roche Grand Cru,fr
+2212,Clos de Lambrays Grand Cru,fr
+2213,Clos de Tart Grand Cru,fr
+2214,Clos Saint-Denis Grand Cru,fr
+2215,Chambolle-Musigny,fr
+2216,Bonnes-Mares Grand Cru,fr
+2217,Musigny Grand Cru,fr
+2219,Clos Vougeot Grand Cru,fr
+2221,Échezeaux Grand Cru,fr
+2222,Grands-Échezeaux Grand Cru,fr
+2223,Vosne-Romanée,fr
+2224,La Grande Rue Grand Cru,fr
+2227,Richebourg Grand Cru,fr
+2229,Romanée-Saint-Vivant Grand Cru,fr
+2230,Nuits-Saint-Georges,fr
+2236,Corton-Charlemagne Grand Cru,fr
+2237,Corton Grand Cru,fr
+2246,Meursault,fr
+2248,Puligny-Montrachet,fr
+2300,Savennières-Coulée-de-Serrant,fr
+2410,Côtes du Jura,fr
+2471,Trento,it
+2585,Barbera d'Alba,it
+2614,Nebbiolo d'Alba,it
+2660,Verdicchio dei Castelli di Jesi,it
+2679,Orcia,it
+2693,Vin Santo di Montepulciano,it
+2734,Montepulciano d'Abruzzo,it
+2735,Trebbiano d'Abruzzo,it
+2753,Primitivo di Manduria,it
+2779,Cannonau di Sardegna,it
+2810,Contessa Entellina,it
+2818,Marsala,it
+2869,Venezia Giulia,it
+2894,Isola dei Nuraghi,it
+2915,Colli della Toscana Centrale,it
+2916,Maremma Toscana,it
+2999,Bolgheri Sassicaia,it
+3009,Vin de France,fr
+3015,Vosne-Romanée Premier Cru,fr
+3016,Chambolle-Musigny Premier Cru,fr
+3021,Pommard Premier Cru,fr
+3022,Puligny-Montrachet Premier Cru,fr
+3024,Chassagne-Montrachet Premier Cru,fr
+3036,Bâtard-Montrachet Grand Cru,fr
+3037,Chevalier-Montrachet Grand Cru,fr
+3041,Montrachet Grand Cru,fr
+3068,Puente Alto,cl
+3077,Hérault,fr
+3107,Rosso Veronese,it
+3138,Bienvenues-Bâtard-Montrachet Grand Cru,fr
+3150,Wiltingen,de
+3154,Graach,de
+3235,Valpolicella Classico,it
+3237,Amarone della Valpolicella Classico,it
+3238,Amarone della Valpolicella Valpantena,it
+3265,Luberon,fr
+3336,Pézenas,fr
+3344,Recioto della Valpolicella Classico,it
+3345,Bolgheri Superiore,it
+3436,Fthiotida,gr
+3505,Pedro Ximénez Sherry (PX),es
+3506,Palo Cortado Sherry,es
+3510,Vosne-Romanée 1er Cru 'Malconsorts',fr
+3516,Vosne-Romanée 1er Cru 'Les Beaux Monts',fr
+3521,Vosne-Romanée 1er Cru 'Les Suchots',fr
+3558,Chablis Grand Cru 'Les Clos',fr
+3560,Chablis Grand Cru 'Valmur',fr
+3601,Beaune 1er Cru 'Le Clos des Mouches',fr
+3678,Chambolle-Musigny 1er Cru 'Les Amoureuses',fr
+3687,Chambolle-Musigny 1er Cru 'Les Feusselottes',fr
+3695,Chambolle-Musigny 1er Cru 'Les Sentiers',fr
+3720,Chassagne-Montrachet 1er Cru 'La Maltroie',fr
+3745,Chassagne-Montrachet 1er Cru 'Morgeot',fr
+3763,Gevrey-Chambertin 1er Cru 'Aux Combottes',fr
+3864,Meursault 1er Cru 'Charmes',fr
+3866,Meursault 1er Cru 'Genevrières',fr
+3877,Meursault 1er Cru 'Perrières',fr
+3967,Nuits-Saint-Georges 1er Cru 'Aux Boudots',fr
+3972,Nuits-Saint-Georges 1er Cru 'Aux Murgers',fr
+3974,Nuits-Saint-Georges 1er Cru 'Aux Thorey',fr
+3981,Nuits-Saint-Georges 1er Cru 'Clos des Corvées',fr
+3985,Nuits-Saint-Georges 1er Cru 'Clos des Porrets Saint-Georges',fr
+4048,Puligny-Montrachet 1er Cru 'Champ Gain',fr
+4053,Puligny-Montrachet 1er Cru 'La Garenne',fr
+4054,Puligny-Montrachet 1er Cru 'La Truffière',fr
+4171,Volnay 1er Cru 'Les Caillerets',fr
+4240,Costa Toscana,it
+4262,Paraje Altamira,ar
+4311,Charlemagne Grand Cru,fr
+4363,Greyton,za
+4595,Cream Sherry,es
+4599,Bual Madeira,pt
+4615,Passito di Pantelleria,it
+4621,Champagne Grand Cru 'Aÿ',fr
+4624,Champagne Grand Cru 'Ambonnay',fr
+4625,Champagne Grand Cru 'Avize',fr
+4631,Champagne Grand Cru 'Le Mesnil-sur-Oger',fr
+4638,Champagne Grand Cru,fr
+4639,Champagne Premier Cru,fr
+4670,Apalta Valley,cl
