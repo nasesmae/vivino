@@ -1,0 +1,262 @@
+id,final_name,country_code,postal_code,latitude,longitude
+7,South Australia,au,5719,"-30,5343665","135,6301212"
+24,California,us,,"36,7014631","-118,755997"
+25,Napa Valley,us,64082,"38,84847025","-94,4130930172303"
+26,Sonoma County,us,95492,"38,5110803","-122,8473388"
+42,Oakville,us,52646,"41,0998174","-91,0444022"
+51,Willamette Valley,us,97128,"45,19890235","-123,16512037734203"
+55,Yamhill County,us,97128,"45,2298399","-123,2180414"
+65,Lodi,us,95240,"38,1343744","-121,2735432"
+85,Howell Mountain,us,94508,"38,5812999","-122,4510974"
+86,Santa Cruz Mountains,us,95033,"37,163834","-122,012182"
+88,Stags Leap District,us,,nan,nan
+91,Calistoga,us,94515,"38,5787966","-122,579705"
+94,Russian River Valley,us,95418,"39,2814497","-123,2109758"
+96,Los Carneros,us,93117,"34,4403502","-119,8493992"
+99,Sta. Rita Hills,us,,nan,nan
+100,Alexander Valley,us,95441,"38,6712308","-122,8278697"
+105,Rutherford,us,28043,"35,3994626","-81,9023191"
+324,Walla Walla Valley,us,99362,"46,0009122","-118,402178"
+327,Columbia Valley,us,98632,"46,1576117","-122,9748352"
+383,Bordeaux,fr,33000,"44,841225","-0,5800364"
+384,Margaux,fr,33460,"45,046232","-0,6728850937448874"
+385,Bourgogne,fr,21210,"47,27808725","4,222486304306048"
+387,Alsace,fr,67600,"48,24917645","7,4074699518555"
+389,Piemonte,it,14024,"45,060735","7,923549"
+393,Pauillac,fr,33250,"45,1995626","-0,7484994"
+394,Toscana,it,53036,"43,4586541","11,1389204"
+397,Barossa Valley,au,5235,"-34,5817132","138,99878719802487"
+399,Saint-Julien,fr,21490,"47,4019947","5,1364639"
+401,Châteauneuf-du-Pape,fr,84230,"44,0553336","4,8312888"
+405,Ribera del Duero,es,09400,"41,66575665","-3,686329463971761"
+409,Champagne,fr,17620,"45,831944","-0,906667"
+411,Cachapoal Valley,cl,2920001,"-34,1899333","-70,818402"
+425,Margaret River,au,6285,"-33,9531776","115,0769369"
+429,Côtes-du-Rhône,fr,26250,"44,76672845","4,852870088717733"
+430,Toro,es,49800,"41,5216963","-5,3939824"
+432,Sauternes,fr,33210,"44,5327805","-0,341386"
+433,Douro,pt,,"41,17004195","-7,304749811735755"
+439,Saint-Joseph,fr,50700,"49,5344534","-1,529802"
+443,Campania,it,83028,"40,860672","14,843984"
+444,Clare Valley,au,5453,"-33,7890862","138,59055698355974"
+445,Lazio,it,00010,"41,9808038","12,7662312"
+451,Graves,fr,69400,"45,9585676","4,6342564"
+452,Côtes de Bourg,fr,33710,"45,0326771","-0,4923597"
+454,Mendoza,ar,,"-34,78709305","-68,43818677312292"
+456,Saint-Estèphe,fr,24360,"45,5925","0,6633333"
+460,Veneto,it,35018,"45,6476663","11,8665254"
+463,Priorat,es,43737,"41,2137983","0,811623628426715"
+471,Pessac-Léognan,fr,,nan,nan
+478,Campo de Borja,es,50549,"41,78654145","-1,5058322706803928"
+479,Rheingau,de,56130,"50,3284037","7,7287053"
+483,Valpolicella,it,37024,"45,5296706","10,9400217"
+485,Montilla-Moriles,es,29720,"36,7286168","-4,3001727"
+488,Umbria,it,06035,"42,965916","12,490236"
+492,Rioja,es,26190,"42,2814642","-2,482804975070473"
+500,Vacqueyras,fr,84190,"44,1382621","4,9823958"
+504,Barolo,it,12064,"44,6108408","7,9428448"
+533,Stellenbosch,za,7599,"-33,934444","18,869167"
+534,Franschhoek,za,7690,"-33,909167","19,119444"
+535,Hermitage,fr,56000,"47,6406711","-2,7637153"
+541,Tokaj,hu,3910,"48,1235534","21,4113895"
+544,Jumilla,es,30520,"38,4735408","-1,3285417"
+545,Mosel,de,56814,"50,1241475","7,2279615"
+548,Puglia,it,,"40,9842539","16,6210027"
+550,Galilee,il,,"32,800844350000006","35,58897318365081"
+555,Pomerol,fr,33500,"44,9311234","-0,1999904"
+557,Paarl,za,7646,"-33,7310282","18,9642117"
+576,Trentino-Alto Adige,it,39057,"46,441472","11,282121"
+579,Terre Siciliane,it,,nan,nan
+593,Central Valley,cl,10917,"41,3317605","-74,120978"
+613,Langhe,it,18025,"44,0648317","7,7882552"
+619,Abruzzo,it,65022,"42,227681","13,854983"
+625,Constantia,za,7848,"-34,0283333","18,4155556"
+628,Bierzo,es,24412,"42,65265025","-6,62318404217132"
+631,Penedès,es,08720,"41,3463825","1,6995213"
+635,Sancerre,fr,18300,"47,3306906","2,8390454"
+636,Chassagne-Montrachet,fr,21190,"46,93636","4,72736"
+640,Salento,it,84060,"40,248604","15,190058"
+642,Friuli-Venezia Giulia,it,33030,"46,151042","13,055904"
+648,Bandol,fr,83150,"43,1357717","5,7523647"
+649,Pfalz,de,55483,"49,9531599","7,310646"
+661,Südtirol - Alto Adige,it,39100,"46,4941215","11,323960198827743"
+673,Bolgheri,it,57020,"43,2340065","10,6179334"
+676,Madeira,pt,9030-319,"32,751750099999995","-16,98174865726062"
+684,Paso Robles,us,93447,"35,6262618","-120,6901319"
+693,Côte-Rôtie,fr,33550,"44,7267925","-0,3900425"
+700,Curico Valley,cl,,nan,nan
+712,Marche,it,62021,"43,3458388","13,1415872"
+713,Uco Valley,ar,,nan,nan
+718,Porto,pt,4000-274,"41,1494512","-8,6107884"
+721,Maipo Valley,cl,,nan,nan
+722,Barbaresco,it,12050,"44,7254469","8,0806959"
+726,Dundee Hills,us,64116,"39,17165575","-94,57928922013092"
+737,Colchagua Valley,cl,,"-34,6357194","-71,1842225"
+746,Valtellina,it,23033,"46,32336235","10,258413671017705"
+755,Patagonia,ar,,"-44,99006975","-70,67343144015169"
+758,Knights Valley,us,89141,"36,0056252","-115,2169609"
+759,Pouilly-Fumé,fr,,nan,nan
+770,Salta,ar,,"-25,1076701","-64,3494964"
+773,Saumur-Champigny,fr,49730,"47,2344298","0,0001821"
+775,Montsant,es,25552,"42,46725","0,7148269"
+782,Château-Grillet,fr,38440,"45,5103192","5,0248741"
+798,Península de Setúbal,pt,2870-890,"38,6936025","-8,9388743"
+801,Condrieu,fr,69420,"45,4624294","4,7676199"
+808,Rosso Piceno,it,63075,"42,9446108","13,7965198"
+817,Franciacorta,it,25050,"45,5891866","10,076411"
+825,Andalucía,es,,"37,3399964","-4,5811614"
+827,Saint-Émilion Grand Cru,fr,,nan,nan
+839,Vino de España,es,47011,"41,6671494","-4,7141337"
+853,Western Cape,za,,"-33,546977","20,72753"
+857,Santa Barbara County,us,,"34,7136533","-119,985823"
+858,Rio Negro,ar,,"-40,4811973","-67,6145911"
+862,Emilia-Romagna,it,41057,"44,525696","11,039437"
+870,Barossa,au,5351,"-34,61341495","138,9385455169364"
+903,Valle d'Aosta,it,21000,"45,730099","7,387426"
+907,Trentino,it,38121,"46,1029536","11,12974249416882"
+924,Baden,de,79215,"48,1928371","8,1390286"
+926,Epanomi,gr,575 00,"40,4283368","22,9269435"
+959,Valais,ch,3961,"46,2303063","7,6605757"
+974,Dealu Mare,ro,407491,"46,7202291","23,1579285"
+1124,South Eastern,md,,nan,nan
+1364,Tulbagh,za,6820,"-33,285059","19,140667"
+1395,Alentejo,pt,7800-246,"38,0551003","-7,8605799"
+1414,Ticino,ch,6637,"46,3351913","8,7525902"
+1437,Moldova,md,MD-3714,"47,2879608","28,5670941"
+1573,Aconcagua Valley,cl,,"-32,8298794","-71,0464094"
+1575,Srednja I Juzna Dalmacija,hr,,nan,nan
+1596,Agrelo,ar,,"-33,1184629","-68,8859261"
+1600,Perdriel,ar,5509,"-33,0734882","-68,8852908"
+1610,Tupungato,ar,5561,"-33,3723648","-69,1479533"
+1706,Cava,es,25722,"42,31658175","1,6111496867672197"
+1723,Mallorca,es,07140,"39,613432","2,8829184529439638"
+1729,Rueda,es,47490,"41,4129785","-4,9597533"
+1735,Valdeorras,es,,"42,34834155","-6,965998220403876"
+1744,El Terrerazo,es,,"39,6222682","-1,2467301"
+1786,Empordà,es,17761,"42,290249450000005","2,975109894854852"
+1796,Brunello di Montalcino,it,53024,"43,056576","11,5038166"
+1798,Chianti Classico,it,53035,"43,3907814","11,3104546"
+1801,Vino Nobile di Montepulciano,it,53045,"43,0716467","11,8054771"
+1802,Montefalco Sagrantino,it,,nan,nan
+1804,Amarone della Valpolicella,it,,nan,nan
+1808,Recioto della Valpolicella,it,,nan,nan
+1819,Gattinara,it,28078,"45,6142424","8,3711382"
+1829,Barbera d'Asti,it,,nan,nan
+1836,Valtellina Superiore,it,,nan,nan
+1837,Sforzato della Valtellina,it,,nan,nan
+1843,Taurasi,it,83030,"41,0083503","14,9574387"
+1844,Greco di Tufo,it,,nan,nan
+1930,Sonoma Coast,us,,"28,4225165","-81,6551998"
+1931,Fort Ross-Seaview,us,95450,"38,5571348","-123,2644524"
+2034,Açores,pt,9600-522,"37,80855645","-25,47313739124529"
+2046,Pico,pt,,"38,4717536","-28,364256196021977"
+2059,Douro Superior,pt,5180-122,"41,0912762","-6,8119369"
+2141,Barsac,fr,33720,"44,6043291","-0,323435"
+2201,Chambertin Grand Cru,fr,21220,"47,20799895","4,96388969477418"
+2202,Chambertin-Clos de Bèze Grand Cru,fr,,nan,nan
+2203,Chapelle-Chambertin Grand Cru,fr,,nan,nan
+2204,Charmes-Chambertin Grand Cru,fr,,nan,nan
+2205,Griotte-Chambertin Grand Cru,fr,,nan,nan
+2207,Mazis-Chambertin Grand Cru,fr,,nan,nan
+2209,Morey-Saint-Denis,fr,21220,"47,1955052","4,9623167"
+2211,Clos de la Roche Grand Cru,fr,21220,"47,20170075","4,963417542859213"
+2212,Clos de Lambrays Grand Cru,fr,21220,"47,19806455","4,95900207990256"
+2213,Clos de Tart Grand Cru,fr,21220,"47,1956198","4,959588539293363"
+2214,Clos Saint-Denis Grand Cru,fr,21220,"47,2001556","4,960928429797206"
+2215,Chambolle-Musigny,fr,21220,"47,1864158","4,9533347"
+2216,Bonnes-Mares Grand Cru,fr,21220,"47,191928700000005","4,957281488973952"
+2217,Musigny Grand Cru,fr,21640,"47,1760791","4,9535106484779385"
+2219,Clos Vougeot Grand Cru,fr,21640,"47,1720514","4,958921027826377"
+2221,Échezeaux Grand Cru,fr,21640,"47,1709896","4,954011070132744"
+2222,Grands-Échezeaux Grand Cru,fr,,nan,nan
+2223,Vosne-Romanée,fr,21700,"47,1585795","4,9547623"
+2224,La Grande Rue Grand Cru,fr,21700,"47,16055465","4,950698491261123"
+2227,Richebourg Grand Cru,fr,21700,"47,1647808","4,947685955930233"
+2229,Romanée-Saint-Vivant Grand Cru,fr,21700,"47,162324600000005","4,95287344978855"
+2230,Nuits-Saint-Georges,fr,21700,"47,1367598","4,9489061"
+2236,Corton-Charlemagne Grand Cru,fr,21550,"47,07909015","4,8726187986944085"
+2237,Corton Grand Cru,fr,21420,"47,07784835","4,870743626617295"
+2246,Meursault,fr,21190,"46,9783803","4,7694038"
+2248,Puligny-Montrachet,fr,21190,"46,9487302","4,7531515"
+2300,Savennières-Coulée-de-Serrant,fr,,nan,nan
+2410,Côtes du Jura,fr,39600,"46,938951","5,685374"
+2471,Trento,it,38122,"46,0664228","11,1257601"
+2585,Barbera d'Alba,it,,"44,7662192","8,0382291"
+2614,Nebbiolo d'Alba,it,12051,"44,6959642","8,0140628"
+2660,Verdicchio dei Castelli di Jesi,it,,nan,nan
+2679,Orcia,it,53027,"43,0201424","11,6088904"
+2693,Vin Santo di Montepulciano,it,,nan,nan
+2734,Montepulciano d'Abruzzo,it,66021,"42,1565463","14,6066804"
+2735,Trebbiano d'Abruzzo,it,,nan,nan
+2753,Primitivo di Manduria,it,74024,"40,4002788","17,6374622"
+2779,Cannonau di Sardegna,it,08022,"40,2568502","9,6218801"
+2810,Contessa Entellina,it,90030,"37,7309803","13,1831444"
+2818,Marsala,it,91025,"37,7979221","12,4342091"
+2869,Venezia Giulia,it,40139,"44,4785765","11,3815621"
+2894,Isola dei Nuraghi,it,07051,"40,7092886","9,6990329"
+2915,Colli della Toscana Centrale,it,,nan,nan
+2916,Maremma Toscana,it,,"42,7027722","11,136743265484084"
+2999,Bolgheri Sassicaia,it,,nan,nan
+3009,Vin de France,fr,59600,"50,2767373","3,977096"
+3015,Vosne-Romanée Premier Cru,fr,,nan,nan
+3016,Chambolle-Musigny Premier Cru,fr,,nan,nan
+3021,Pommard Premier Cru,fr,21630,"47,0141029","4,796766472116928"
+3022,Puligny-Montrachet Premier Cru,fr,21190,"46,9536245","4,748233065293081"
+3024,Chassagne-Montrachet Premier Cru,fr,21190,"46,939878","4,730738467622547"
+3036,Bâtard-Montrachet Grand Cru,fr,21190,"46,94385735","4,740030623897403"
+3037,Chevalier-Montrachet Grand Cru,fr,,nan,nan
+3041,Montrachet Grand Cru,fr,21190,"46,94385735","4,740030623897403"
+3068,Puente Alto,cl,8150000,"-33,6095279","-70,5754736"
+3077,Hérault,fr,34800,"43,591422","3,3553309364095925"
+3107,Rosso Veronese,it,37030,"45,6362694","11,1093557"
+3138,Bienvenues-Bâtard-Montrachet Grand Cru,fr,,nan,nan
+3150,Wiltingen,de,54459,"49,6591723","6,590185"
+3154,Graach,de,54470,"49,9352333","7,0634184"
+3235,Valpolicella Classico,it,,nan,nan
+3237,Amarone della Valpolicella Classico,it,,nan,nan
+3238,Amarone della Valpolicella Valpantena,it,,nan,nan
+3265,Luberon,fr,84120,"43,6959194","5,512207"
+3336,Pézenas,fr,34120,"43,4611777","3,4228323"
+3344,Recioto della Valpolicella Classico,it,,nan,nan
+3345,Bolgheri Superiore,it,,nan,nan
+3436,Fthiotida,gr,351 32,"38,88734025","22,36803008460693"
+3505,Pedro Ximénez Sherry (PX),es,,nan,nan
+3506,Palo Cortado Sherry,es,,nan,nan
+3510,Malconsorts,fr,,nan,nan
+3516,Les Beaux Monts,fr,60200,"49,4098967","2,8919156"
+3521,Les Suchots,fr,18370,"46,5870375","2,248357"
+3558,Les Clos,fr,83570,"43,5044657","6,2161605"
+3560,Valmur,fr,89800,"47,8253837","3,8081277"
+3601,Le Clos des Mouches,fr,,nan,nan
+3678,Les Amoureuses,fr,75004,"48,8539414","2,3672392"
+3687,Les Feusselottes,fr,21220,"47,1844938","4,955694834043014"
+3695,Les Sentiers,fr,37460,"47,1355114","1,3069398"
+3720,La Maltroie,fr,,nan,nan
+3745,Morgeot,fr,21190,"46,9251024","4,7229654"
+3763,Aux Combottes,fr,88350,"48,3510125","5,4352098"
+3864,Charmes,fr,02800,"49,6516667","3,3786111"
+3866,Genevrières,fr,52500,"47,7205492","5,6063078"
+3877,Perrières,fr,14170,"48,9596234","-0,1351596"
+3967,Aux Boudots,fr,,nan,nan
+3972,Aux Murgers,fr,52800,"48,0362178","5,2050943"
+3974,Aux Thorey,fr,89430,"47,9030083","4,1222744"
+3981,Clos des Corvées,fr,88630,"48,4445268","5,6759878"
+3985,Clos des Porrets Saint-Georges,fr,,nan,nan
+4048,Champ Gain,fr,21190,"46,954121","4,737453"
+4053,La Garenne,fr,26700,"44,4109903","4,752313"
+4054,La Truffière,fr,61170,"48,5079986","0,2766595"
+4171,Les Caillerets,fr,41700,"47,5359795","1,4540494477739678"
+4240,Costa Toscana,it,53018,"43,2953348","11,1984872"
+4262,Paraje Altamira,ar,,"41,4616571","-1,1852378"
+4311,Charlemagne Grand Cru,fr,21550,"47,07909015","4,8726187986944085"
+4363,Greyton,za,7233,"-34,050751","19,608166"
+4595,Cream Sherry,es,,nan,nan
+4599,Bual Madeira,pt,,nan,nan
+4615,Passito di Pantelleria,it,,nan,nan
+4621,Aÿ,fr,49320,"47,38863045","-0,3909097146387368"
+4624,Ambonnay,fr,51150,"49,0772894","4,1723887"
+4625,Avize,fr,51190,"48,9722072","4,0100647"
+4631,Le Mesnil-sur-Oger,fr,51130,"48,94631","4,02123"
+4638,Champagne Grand Cru,fr,,nan,nan
+4639,Champagne Premier Cru,fr,,nan,nan
+4670,Apalta Valley,cl,,nan,nan
