@@ -26,7 +26,7 @@ This repository contains a Python project for creating a Tableau dashboard based
 
 ## 🗃️ Database Structure
 
-![Database Diagram](extras\vivino_db_diagram_horizontal.png)
+![Database Diagram](extras/vivino_db_diagram_horizontal.png)
 
 ## 🐍 Data Exporter (db_to_csv.py)
 
