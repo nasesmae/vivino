@@ -17,7 +17,6 @@ This repository contains a Python project for creating a Tableau dashboard based
 ├── source/
 │ ├── data_preprocessing.py
 │ └── db_to_csv.py
-└── tableau_dashboard/
 ├── Consumer Insights Dashboard.twb
 ├── Wine Pairing Dashboard.twb
 ├── README.md
